@@ -18,4 +18,4 @@ Para cada pessoa, informe a idade, o peso em quilogramas e a altura em metros.
 
 ## Crédito e origem
 
-Exercício adaptado para o portfólio de Jorge Miguel Calixto, com autorização de Viviane Gomes Felizardo. [Veja o repositório original](https://github.com/Vivianefelizardo/Algoritmos-e-Programa-o-1/tree/main/Aula%20for).
+Exercício adaptado para o portfólio de Jorge Miguel Calixto da Silva, com autorização de Viviane Gomes Felizardo. [Veja o repositório original](https://github.com/Vivianefelizardo/Algoritmos-e-Programa-o-1/tree/main/Aula%20for).
