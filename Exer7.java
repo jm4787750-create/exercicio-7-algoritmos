@@ -1,4 +1,4 @@
-// Autor: Jorge Miguel Calixto
+// Autor: Jorge Miguel Calixto da Silva
 // Exercício adaptado com autorização da autora original.
 
 import java.util.Scanner;
